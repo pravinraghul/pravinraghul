@@ -1,6 +1,6 @@
 ### Pravin Raghul S
 
-Embedded Software Engineer with 5+ years of Experience in the Embedded software industry
+Embedded Software Engineer with 6+ years of Experience in the Embedded software industry
 
 #### Skills
 
@@ -11,7 +11,7 @@ Embedded Software Engineer with 5+ years of Experience in the Embedded software 
 #### Concentrating on...!
 
 - Embedded Linux & Device Drivers
-- ARMv7 & ARMv8
+- AARCH64
 
 #### Contact
 

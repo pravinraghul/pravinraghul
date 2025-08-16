@@ -34,14 +34,12 @@ Passionate **Senior Embedded Software Engineer** with **6+ years** of commercial
 - **IDEs**: VxWorks Workbench, PlatformIO
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pravinraghul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinraghul&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinraghul&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinraghul&theme=tokyonight" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinraghul&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🏆 GitHub Trophies
